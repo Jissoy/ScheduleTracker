@@ -1,0 +1,12 @@
+B:\Visual Studio\Projects\ScheduleTracker2\obj\Debug\net8.0\ScheduleTracker2.csproj.AssemblyReference.cache
+B:\Visual Studio\Projects\ScheduleTracker2\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+B:\Visual Studio\Projects\ScheduleTracker2\obj\Debug\net8.0\Avalonia\resources
+B:\Visual Studio\Projects\ScheduleTracker2\obj\Debug\net8.0\ScheduleTracker2.GeneratedMSBuildEditorConfig.editorconfig
+B:\Visual Studio\Projects\ScheduleTracker2\obj\Debug\net8.0\ScheduleTracker2.AssemblyInfoInputs.cache
+B:\Visual Studio\Projects\ScheduleTracker2\obj\Debug\net8.0\ScheduleTracker2.AssemblyInfo.cs
+B:\Visual Studio\Projects\ScheduleTracker2\obj\Debug\net8.0\ScheduleTracker2.csproj.CoreCompileInputs.cache
+B:\Visual Studio\Projects\ScheduleTracker2\obj\Debug\net8.0\Avalonia\references
+B:\Visual Studio\Projects\ScheduleTracker2\obj\Debug\net8.0\Avalonia\original.dll
+B:\Visual Studio\Projects\ScheduleTracker2\obj\Debug\net8.0\Avalonia\original.pdb
+B:\Visual Studio\Projects\ScheduleTracker2\obj\Debug\net8.0\Avalonia\original.ref.dll
+B:\Visual Studio\Projects\ScheduleTracker2\obj\Debug\net8.0\refint\ScheduleTracker2.dll
